@@ -1,0 +1,15 @@
+{
+    "database": {
+        "serverName": "Ip_Address",
+        "port": "port",
+        "userId": "username",
+        "password": "password",
+        "databaseName": "databaseName",
+        "multipleActiveResultSets": true,
+        "trustServerCertificate": true,
+        "maxPoolSize": 100
+    }
+}
+
+
+
